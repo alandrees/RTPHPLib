@@ -724,13 +724,3 @@ class RequestTracker
         return array('url', 'user', 'pass', 'enableSslVerification');
     }
 }
-
-class RequestTrackerException extends Exception
-{
-}
-class AuthenticationException extends RequestTrackerException
-{
-}
-class HttpException extends RequestTrackerException
-{
-}

@@ -1,0 +1,3 @@
+class RequestTrackerException extends Exception
+{
+}
