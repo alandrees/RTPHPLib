@@ -6,6 +6,10 @@
  * @author Sam Schmidt <samuel@dersam.net>
  * @since 2016-02-01
  */
+namespace Dersam\RequestTracker;
+
+use Dersam\RequestTracker\RequestTracker;
+
 class RequestTrackerTest extends PHPUnit_Framework_TestCase
 {
     private function getHost()

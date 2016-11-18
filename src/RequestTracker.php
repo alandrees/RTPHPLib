@@ -28,6 +28,12 @@ SOFTWARE.
  * See the example script for a demonstration.
  *
  */
+namespace Dersam\RequestTracker;
+
+use Dersam\RequestTracker\Exceptions\AuthenticationException;
+use Dersam\RequestTracker\Exceptions\HttpException;
+use Dersam\RequestTracker\Exceptions\RequestTrackerException;
+
 class RequestTracker
 {
     /**

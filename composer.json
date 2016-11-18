@@ -20,6 +20,6 @@
 
     },
     "autoload": {
-        "classmap": ["RequestTracker.php"]
+        "psr-4": {"Dersam\\RequestTracker": "src"}
     }
 }
