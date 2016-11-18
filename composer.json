@@ -20,6 +20,6 @@
 
     },
     "autoload": {
-        "psr-4": {"Dersam\\RequestTracker": "src"}
+        "psr-4": {"Dersam\\RequestTracker\\": "src"}
     }
 }
