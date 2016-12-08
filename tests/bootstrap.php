@@ -6,4 +6,4 @@
  * @since 2016-02-01
  */
 
-include __DIR__.'../src/RequestTracker.php';
+include __DIR__.'/../src/RequestTracker.php';
