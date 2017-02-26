@@ -10,7 +10,7 @@ namespace Dersam\RequestTracker;
 
 use Dersam\RequestTracker\RequestTracker;
 
-class RequestTrackerTest extends PHPUnit_Framework_TestCase
+class RequestTrackerTest extends \PHPUnit_Framework_TestCase
 {
     private function getHost()
     {
